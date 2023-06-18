@@ -24,6 +24,11 @@ p {
     border-top: 1px dotted #ccc;
 
 }
+
+.header{
+    Position: sticky;
+}
+
 .Post-blog-01 {
     background: #DFDFDF;
     border-bottom: 1px dotted #ccc;
