@@ -27,6 +27,8 @@ p {
 .Post-blog-01 {
     background: #DFDFDF;
     border-bottom: 1px dotted #ccc;
+    top: 10;
+    left: 20px;
 
 }
 
@@ -37,5 +39,7 @@ article {
 
 .Post-blog-02 {
     background: #DFDFDF;
-    border-bottom: 1px dotted #ccc;
+    top: 10;
+    left: 20px;
+
 }
