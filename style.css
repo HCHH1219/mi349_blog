@@ -25,7 +25,7 @@ p {
 
 }
 .Post-blog-01 {
-    background: gray;
+    background: #DFDFDF;
     border-bottom: 1px dotted #ccc;
 
 }
@@ -36,6 +36,6 @@ article {
 
 
 .Post-blog-02 {
-    background: gray;
+    background: #DFDFDF;
     border-bottom: 1px dotted #ccc;
 }
