@@ -25,11 +25,17 @@ p {
 
 }
 .Post-blog-01 {
-    background: blue;
+    background: gray;
     border-bottom: 1px dotted #ccc;
 
 }
 
 article {
     border-bottom: 1px solid #000;
+}
+
+
+.Post-blog-02 {
+    background: gray;
+    border-bottom: 1px dotted #ccc;
 }
