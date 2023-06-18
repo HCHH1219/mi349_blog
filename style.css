@@ -24,7 +24,9 @@ p {
     border-top: 1px dotted #ccc;
 
 }
-.Post-blog-01 {
+.sticky, .Post-blog-01 {
+    color: grey;
+    padding: 20px;
     border-bottom: 1px dotted #ccc;
 
 }
