@@ -57,6 +57,13 @@ article {
 }
 
 section {
-    background: #ccc;
+    background: #DFDFDF;
     display: flex;
+}
+
+article {
+    background:#999;
+    padding: 20px;
+    margin: 20px;
+
 }
