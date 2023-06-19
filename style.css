@@ -26,11 +26,15 @@ p {
 }
 
 .header-1 {
+    background: #DFDFDF;
     Position: sticky;
+    top: 0;
 }
 
 .header-2 {
+    background: #DFDFDF;
     Position: sticky;
+    top: 0;
 }
 
 .Post-blog-01 {
