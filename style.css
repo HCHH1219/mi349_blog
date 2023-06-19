@@ -25,7 +25,11 @@ p {
 
 }
 
-.header{
+.header01{
+    Position: sticky;
+}
+
+.header02{
     Position: sticky;
 }
 
