@@ -37,8 +37,12 @@ p {
     top: 0;
 }
 
+.title {
+    background: #686868;
+}
+
 .Post-blog-01 {
-    background: 999;
+    background: #999;
     border-bottom: 1px dotted #ccc;
     top: 10;
     left: 20px;
