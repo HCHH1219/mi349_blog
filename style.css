@@ -54,5 +54,9 @@ article {
     background: #DFDFDF;
     top: 10;
     left: 20px;
+}
 
+section {
+    background: #ccc;
+    display: flex;
 }
