@@ -38,7 +38,7 @@ p {
 }
 
 .Post-blog-01 {
-    background: #DFDFDF;
+    background: 999;
     border-bottom: 1px dotted #ccc;
     top: 10;
     left: 20px;
@@ -51,7 +51,7 @@ article {
 
 
 .Post-blog-02 {
-    background: #DFDFDF;
+    background: #999;
     top: 10;
     left: 20px;
 }
@@ -68,7 +68,6 @@ article {
 }
 
 form {
-    background:#999;
     padding: 10px;
     margin: 2px;
 }
