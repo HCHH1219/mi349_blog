@@ -173,5 +173,50 @@ form {
     margin-left: 10px;
 }
 
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 40px;
+    padding: 40px;
+    color: #242424; 
+    border-top: 10px solid #242424;
+    background: #fff;
+}
 
+main {
+    background: #ccc;
+    border-top: 5px solid #494949;
+    border-bottom: 3px solid #494949;
+}
+
+.img-container12 {
+    background:#000;
+    height: 20px;
+    width: 5px;
+    float: right;
+    margin-left: 2px;
+}
+
+.img-container13 {
+    background:#000;
+    height: 20px;
+    width: 5px;
+    float: right;
+    margin-left: 2px;
+}
+
+
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 40px;
+    padding: 40px;
+    color: #242424; 
+    border-top: 10px solid #242424;
+    background: #fff;
+}
+
+main {
+    background: #ccc;
+    border-top: 5px solid #494949;
+    border-bottom: 3px solid #494949;
+}
 
