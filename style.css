@@ -64,6 +64,15 @@ section {
 article {
     background:#999;
     padding: 20px;
-    margin: 20px;
+    margin: 10px;
+}
 
+form {
+    background:#999;
+    padding: 10px;
+    margin: 2px;
+}
+
+.masthead {
+    image: url('Blog-images/Satisfactory.jpg')
 }
