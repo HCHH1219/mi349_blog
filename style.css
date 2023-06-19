@@ -87,3 +87,11 @@ form {
     height: 200px;
     width: 300px;
 }
+
+.img-container01 {
+    background:#000;
+    height: 50px;
+    width: 10px;
+    float: right;
+    margin-left: 10px;
+}
